@@ -18,6 +18,11 @@ Speed
 
 User experience
 
+## AI Used:
+1.ChatGPT
+
+2.Claude
+
 ## Algorithm:
 ```
 Start
@@ -223,7 +228,6 @@ Two uses:
 Cryptocurrency: Bitcoin lets people send money without banks.
 Supply chain: Companies track food and goods from farm to shop.
 
-Blockchain makes records safe and hard to change.
 ----------------------------------------------------------------------------------------------------
 
 ## 5. Output Format Prompt
@@ -328,7 +332,7 @@ Education and legal: Verified certificates and smart contracts
 Blockchain offers a secure, transparent way to store and share data without a central authority. As it matures, it can improve trust and efficiency in finance, healthcare, logistics, and government.
 
 
-## Result
+# Result:
 
 ## Comparison of the Five Prompting Strategies
 
